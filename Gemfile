@@ -39,7 +39,7 @@ gem 'devise'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 gem 'jquery-rails'
-gem 'bootstrap', '~> 4.1.3'
+gem 'bootstrap', '~> 4.3.1'
 
 gem 'friendly_id', '~> 5.2.0'
 
